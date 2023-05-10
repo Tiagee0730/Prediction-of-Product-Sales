@@ -33,7 +33,7 @@ Our goal is to product helpful analysis of sales for each item sold by a group o
 - Linear Regression model
 
 ## Recommendations
-- I recommend that the stores build Tier 2 supermarkets because they perform best in this market. The linear regression model predicts well for store sales.
+- I recommend that the stores build Tier 2 supermarkets because they perform best in this market. The linear regression model predicts well for store sales. The R2 score is still low so I will continue to do more tuning to try to decrease the difference between the testing and training scores.
 
 ## For further information, please contact at 
 ashley.gee0730@gmail.com
